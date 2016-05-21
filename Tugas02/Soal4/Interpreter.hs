@@ -1,4 +1,4 @@
-import Soal4.Store
+import Soal4.Store (Store, initial, value, update)
 
 data AritExp = 
      Lit Int |              -- literal bilangan bulat
